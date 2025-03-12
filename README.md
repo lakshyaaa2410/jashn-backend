@@ -18,7 +18,7 @@ Welcome to **Jashn**, the backend of an event booking app that lets users discov
 
 -   **Node.js**: JavaScript runtime environment.
 -   **Express.js**: Web application framework.
--   **MongoDB**: NoSQL database for data storage.
+-   **MongoDB**: MongoDB database for data storage.
 -   **Mongoose**: MongoDB object modeling for Node.js.
 -   **JSON Web Tokens (JWT)**: Authentication and authorization.
 
@@ -105,11 +105,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 📬 Contact
 
